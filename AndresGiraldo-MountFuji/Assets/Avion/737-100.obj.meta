@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: e07b1e2823d004d8b8707d9c242bd96a
+timeCreated: 1519839345
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: default
+    400000: //RootNode
+    400002: default
+    2100000: DefaultWhite
+    2100002: DefaultWhite_horn.png
+    2100004: DefaultWhite_cab.png
+    2100006: DefaultWhite_temp.png
+    2100008: DefaultWhite_heat.png
+    2100010: DefaultWhite_ctrl.png
+    2100012: DefaultWhite_grd-pwr.png
+    2100014: DefaultWhite_power.png
+    2100016: DefaultWhite_dc-ac.png
+    2100018: DefaultWhite_navigation.png
+    2100020: DefaultWhite_spoilers.png
+    2100022: DefaultWhite_oxygen.png
+    2100024: DefaultWhite_engines.png
+    2100026: DefaultWhite_mic.png
+    2100028: DefaultWhite_keyb.png
+    2100030: DefaultWhite_asi.png
+    2100032: DefaultWhite_flap.png
+    2100034: DefaultWhite_oiltemp.png
+    2100036: DefaultWhite_fuel.png
+    2100038: DefaultWhite_debit.png
+    2100040: DefaultWhite_egt.png
+    2100042: DefaultWhite_epr.png
+    2100044: DefaultWhite_adi.png
+    2100046: DefaultWhite_vsi.png
+    2100048: DefaultWhite_alt.png
+    2100050: DefaultWhite_hsi.png
+    2100052: transparentExt
+    2100054: DefaultWhite_seat.png
+    2100056: DefaultWhite_interior.png
+    2100058: DefaultWhite_auto.png
+    2100060: DefaultWhite_pressure.png
+    2100062: DefaultWhite_voice.png
+    2100064: DefaultWhite_fwd.png
+    2100066: DefaultWhite_hyd.png
+    2100068: DefaultWhite_ice.png
+    2100070: DefaultWhite_pumps.png
+    2100072: DefaultWhite_dome.png
+    2100074: DefaultWhite_stall.png
+    2100076: DefaultWhite_recorder.png
+    2100078: DefaultWhite_gps.png
+    2100080: DefaultWhite_pos.png
+    2100082: DefaultWhite_flaps.png.001
+    2100084: DefaultWhite_elt.png
+    2100086: DefaultWhite_empty.png.001
+    2100088: DefaultWhite_empty.png
+    2100090: DefaultWhite_overhead.png
+    2100092: DefaultWhite_trim.png
+    2100094: DefaultWhite_adf.png
+    2100096: DefaultWhite_empty0.png
+    2100098: DefaultWhite_transponder.png
+    2100100: DefaultWhite_selcal.png
+    2100102: DefaultWhite_mode.png
+    2100104: DefaultWhite_det.png
+    2100106: DefaultWhite_stab-trim.png
+    2100108: DefaultWhite_flood.png
+    2100110: DefaultWhite_hf.png
+    2100112: DefaultWhite_mic0.png
+    2100114: DefaultWhite_nav.png
+    2100116: DefaultWhite_vhf.png
+    2100118: DefaultWhite_fire.png
+    2100120: DefaultWhite_throttle.png
+    2100122: DefaultWhite_pedest.png
+    2100124: DefaultWhite_vor.png
+    2100126: transparent
+    2100128: DefaultWhite_Landingear.png
+    2100130: DefaultWhite_rmi.png
+    2100132: DefaultWhite_marker.png
+    2100134: DefaultWhite_oilpressure.png
+    2100136: DefaultWhite_rpm.png
+    2100138: DefaultWhite_ralt.png
+    2100140: DefaultWhite_ai.png
+    2100142: DefaultWhite_txt_panel_lighting.png
+    2100144: DefaultWhite_divers.png
+    2100146: DefaultWhite_panel.png
+    2300000: default
+    3300000: default
+    4300000: default
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
